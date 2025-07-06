@@ -117,4 +117,8 @@ TASK 2:
 
 ## OUTPUT:
 
+<!-- Uploading "Screenshot 2025-07-06 214402.png"... -->
 
+<!-- Uploading "Screenshot 2025-07-06 214437.png"... -->
+
+<!-- Uploading "Screenshot 2025-07-06 214532.png"... -->
