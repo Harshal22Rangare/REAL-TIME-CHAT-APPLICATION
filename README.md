@@ -117,8 +117,8 @@ TASK 2:
 
 ## OUTPUT:
 
-<!-- Uploading "Screenshot 2025-07-06 214402.png"... -->
+<img width="1410" height="628" alt="Image" src="https://github.com/user-attachments/assets/2cb7d8ef-bf1a-4b0a-9011-360aedc8543c" />
 
-<!-- Uploading "Screenshot 2025-07-06 214437.png"... -->
+<img width="1564" height="541" alt="Image" src="https://github.com/user-attachments/assets/39c90294-935c-4d20-a69d-ef52638494cb" />
 
-<!-- Uploading "Screenshot 2025-07-06 214532.png"... -->
+<img width="1249" height="529" alt="Image" src="https://github.com/user-attachments/assets/919424b9-348b-40a6-bd63-6de24ed2ad57" />
