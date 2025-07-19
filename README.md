@@ -117,7 +117,7 @@ TASK 2:
 
 ## OUTPUT:
 
-![Image](https://github.com/user-attachments/assets/5f74e5a8-cb41-46ea-813f-4b0263b59df0)
+![Image](https://github.com/user-attachments/assets/abdf9664-a453-4c5c-bc77-969b578025fb)
 
 <img width="1410" height="628" alt="Image" src="https://github.com/user-attachments/assets/2cb7d8ef-bf1a-4b0a-9011-360aedc8543c" />
 
